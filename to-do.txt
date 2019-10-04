@@ -1,1 +1,51 @@
 1. Edycja pliku
+
+/*columns*/
+.ccol-1 {
+            width: 4.33%;
+}
+
+.ccol-2 {
+            width: 12.66%;
+}
+
+.ccol-3 {
+            width: 21%;
+}
+
+.ccol-4 {
+            width: 29.33%;
+}
+
+.ccol-5 {
+            width: 37.66%;
+}
+
+.ccol-6 {
+            width: 46%;
+}
+
+.ccol-7 {
+            width: 54.33%;
+}
+
+.ccol-8 {
+            width: 62.66%;
+}
+
+.ccol-9 {
+            width: 71%;
+}
+
+.ccol-10 {
+            width: 79.33%;
+}
+
+.ccol-11 {
+            width: 87.66%;
+}
+
+.ccol-12 {
+            width: 96%;
+}
+/*columns-end*/
